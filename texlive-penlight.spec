@@ -1,6 +1,6 @@
 Name:		texlive-penlight
-Version:	64811
-Release:	2
+Version:	67716
+Release:	1
 Summary:	Penlight Lua libraries made available to LuaLaTeX users
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/penlight
