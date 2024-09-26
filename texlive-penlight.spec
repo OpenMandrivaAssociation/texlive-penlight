@@ -1,5 +1,5 @@
 Name:		texlive-penlight
-Version:	67716
+Version:	72301
 Release:	1
 Summary:	Penlight Lua libraries made available to LuaLaTeX users
 Group:		Publishing
