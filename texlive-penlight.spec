@@ -3,7 +3,7 @@ Version:	72301
 Release:	1
 Summary:	Penlight Lua libraries made available to LuaLaTeX users
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/penlight
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/penlight
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/penlight.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/penlight.doc.r%{version}.tar.xz
